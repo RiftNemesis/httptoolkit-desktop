@@ -117,7 +117,7 @@
     "os-proxy-config": "^1.1.1",
     "rimraf": "^2.7.1",
     "semver": "^7.2.1",
-    "universal-analytics": "^0.4.20",
+    "universal-analytics": "^0.5.1",
     "uuid": "^3.3.3",
     "yargs": "^15.1.0"
   },
