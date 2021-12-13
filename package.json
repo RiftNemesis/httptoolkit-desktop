@@ -109,7 +109,7 @@
     "publish": null
   },
   "dependencies": {
-    "@sentry/electron": "^2.5.0",
+    "@sentry/electron": "^2.5.4",
     "@sentry/integrations": "^6.7.1",
     "electron-context-menu": "^0.15.1",
     "electron-first-run": "^3.0.0",
