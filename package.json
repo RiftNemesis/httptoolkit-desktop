@@ -115,7 +115,7 @@
     "electron-first-run": "^3.0.0",
     "electron-window-state": "^5.0.3",
     "os-proxy-config": "^1.1.1",
-    "rimraf": "^2.7.1",
+    "rimraf": "^4.0.0",
     "semver": "^7.2.1",
     "universal-analytics": "^0.4.20",
     "uuid": "^3.3.3",
