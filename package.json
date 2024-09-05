@@ -111,15 +111,15 @@
   "dependencies": {
     "@sentry/electron": "^2.5.0",
     "@sentry/integrations": "^6.7.1",
-    "electron-context-menu": "^0.15.1",
+    "electron-context-menu": "^4.0.0",
     "electron-first-run": "^3.0.0",
     "electron-window-state": "^5.0.3",
     "os-proxy-config": "^1.1.1",
     "rimraf": "^2.7.1",
     "semver": "^7.2.1",
-    "universal-analytics": "^0.4.20",
+    "universal-analytics": "^0.4.21",
     "uuid": "^3.3.3",
-    "yargs": "^15.1.0"
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@types/electron-window-state": "^2.0.33",
